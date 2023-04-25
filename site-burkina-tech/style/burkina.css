@@ -1,0 +1,238 @@
+/*debut css header*/
+body{
+    margin: 0%; padding: 0%; 
+    margin-left: 0%;
+    margin-top: 0%;
+}
+html{
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+}
+.navbar-brand {
+    text-decoration: none;
+}
+.container-fluid{
+   margin: -80px;
+}
+.d-inline-block{
+    padding-left: 75px;
+    padding-top: 20px;
+}
+.background{
+    position: relative;
+    bottom: 100px;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+    gap: 5px;
+}
+a:hover{
+    background-color: rgba(235, 190, 108, 0.993);
+    border-radius: 5px;
+}
+.im{
+    position: relative;
+    right: 60px;
+}
+.bur{
+    color: white;
+    font-size: 60px;
+    position: relative;
+    bottom: 345px;
+    text-align: center;
+}
+.offr{
+    color: white;
+    font-size: 28px;
+    position: relative;
+    bottom: 325px;
+    text-align: center;
+}
+.head{
+    height:200px;
+}
+/*fin css header*/
+/* debu a propos */
+.A1{
+    background-color: rgb(221, 215, 215);
+    position: relative;
+    bottom: 250px;
+    height: 590px;
+}
+.A2 a{
+    font-size: 50px;
+    position: relative;
+    top: 50px;
+    left: 450px;
+    text-align: center;
+}
+.A3{
+    display: flex;
+}
+.A4{
+    position: relative;
+    right: 0px;
+    bottom: 50px;
+}
+.A5{
+    font-size: 20px;
+    text-align: justify;
+    width: 600px;
+    position: relative;
+    top: 100px;
+    right: 0px;
+}
+.A6{
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+    right: 40px;
+}
+/* fin a propos */
+.D1{
+    display: flex;
+    position: relative;
+    bottom: 70px;
+ }
+ .D2{
+    border: groove;
+    border-radius: 1PX;
+    padding-left: 90PX;
+    margin-left: 170PX;
+    margin-right: 50PX;
+    padding-right: 50PX;
+    padding-bottom: 100PX;
+ 
+ }
+ .D3{
+     border: groove;
+     border-radius: 1PX;
+     padding-left: 50PX;
+     margin-left: 50PX;
+     margin-right: 50PX;
+     padding-right: 50PX;
+ } 
+ .D4{
+    border: groove;
+    border-radius: 1PX;
+    padding-left: 50PX;
+    margin-left: 50PX;
+    margin-right: 50PX;
+    padding-right: 50PX;
+}
+.E{
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    bottom: 200PX;
+}
+.E1{
+    text-align: center;
+    position: relative;
+    bottom: 150PX;
+}
+.E2{
+    position: relative;
+    bottom: 30PX;
+    padding-left: 10PX;
+
+}
+.E3{
+    position: relative;
+    bottom: 30PX;
+    padding-left: 50PX;
+
+}
+.E4{
+    position: relative;
+    bottom: 30PX;
+    padding-left: 65PX;
+
+}
+.F1{
+    text-align: center;
+}
+.F2{
+    text-align: center;
+}
+.F3{
+    text-align: center;
+}
+.trait{
+    color:white;
+    text-align: center;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 50px;
+    left: 330px;
+}
+.foot{
+    background-color: black;
+    height: 150px;
+}
+.foote{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 50px;
+}
+.produit{
+    background-color: rgb(236, 224, 200);
+    height: 750px;
+    position: relative;
+    bottom: 250px;
+}
+.pr1{
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
+.td1 :hover{
+background-color: rgb(241, 211, 211);
+}
+.pr2 td{
+    position: relative;
+    left: 200px;
+    top: 45px;
+    padding: 50px;
+}
+.pr3{
+    /*-webkit-clip-path:rgb(245, 227, 227);*/
+    position: relative;
+    left: 250px;
+    top: 75px;
+}
+.parte{
+    height: 525px;
+    position: relative;
+    bottom: 25px;
+    opacity: 0.6;
+}
+.fin{
+    position: relative;
+    bottom: 400px;
+    left: 340px;
+    gap: 75px;
+  
+}
+.part{
+    height: 500px;
+}
+.part1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    bottom: 500px;
+}
+.part2{
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 475px;
+}
